@@ -1,4 +1,4 @@
-# Portfolio Projects
+# Portfolio
 This is a collection of projects in my personal Github account
 
 #### Quant-Analysis (ongoing) : https://github.com/Andeez123/Quant-Analysis 
