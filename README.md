@@ -5,6 +5,6 @@ This is a collection of projects in my personal Github account
   https://github.com/Andeez123/Finance-Web-Scraper
 
 #### Sample Marketing Event Dashboard using PowerBI: 
-  https://drive.google.com/file/d/1V3DX-0LT0tNXMVqBztdo62rZqQ_bLA6J/view?usp=drive_link (PowerBI Dashboard link)
-  https://drive.google.com/file/d/18wX4uoRzDjaLY2AJFVzy4RiSyfiFPyeQ/view?usp=sharing (PowerBI Dashboard PDF File)
+  https://drive.google.com/file/d/1HBrapHT6aufrkvH1FonHkIDpTWjMCoTq/view?usp=sharing (PowerBI Dashboard link)
+  https://drive.google.com/file/d/1ExsXdCmw1Kdvv5GGwnS1JoY1S0TbTzuz/view?usp=sharing (PowerBI Dashboard PDF File)
 
