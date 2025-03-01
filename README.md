@@ -11,3 +11,6 @@ This is a collection of projects in my personal Github account
 #### Sample Code from internship data cleaning, loading and transformation project:
   https://github.com/Andeez123/Internship-Codebase/
 
+#### Basic exploratory data analysis on a sample movie dataset
+  https://github.com/Andeez123/Movie-dataset-EDA
+
