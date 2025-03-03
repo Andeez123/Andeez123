@@ -14,3 +14,6 @@ This is a collection of projects in my personal Github account
 #### Basic exploratory data analysis on a sample movie dataset
   https://github.com/Andeez123/Movie-dataset-EDA
 
+#### Scrapy mongodb project
+  https://github.com/Andeez123/Scrapy-Mongodb
+
