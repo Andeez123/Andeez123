@@ -1,6 +1,9 @@
 # Portfolio
 This is a collection of projects in my personal Github account
 
+#### Data extraction and machine learning project
+  https://github.com/Andeez123/ML-Project1
+
 #### Financial data web scraping: 
   https://github.com/Andeez123/Finance-Web-Scraper
 
