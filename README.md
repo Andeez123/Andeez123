@@ -1,7 +1,7 @@
 # Portfolio
 This is a collection of projects in my personal Github account
 
-#### Data extraction and machine learning project
+#### Data extraction and machine learning project:
   https://github.com/Andeez123/ML-Project1
 
 #### Financial data web scraping: 
@@ -23,6 +23,6 @@ This is a collection of projects in my personal Github account
 #### Basic exploratory data analysis on a sample movie dataset
   https://github.com/Andeez123/Movie-dataset-EDA
 
-#### Scrapy mongodb project
+#### Scrapy mongodb project:
   https://github.com/Andeez123/Scrapy-Mongodb
 
