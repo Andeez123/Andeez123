@@ -14,6 +14,9 @@ This is a collection of projects in my personal Github account
 #### Sample Code from internship data cleaning, loading and transformation project:
   https://github.com/Andeez123/Internship-Codebase/
 
+#### FIT2099 Object Oriented Programming with Java Bootcamps:
+  https://github.com/Andeez123/FIT2099-java-bootcamp
+
 #### FIT1043 Machine Learning Assignment:
   https://github.com/Andeez123/FIT1043-A2
 
