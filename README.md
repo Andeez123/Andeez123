@@ -4,9 +4,6 @@ This is a collection of projects in my personal Github account
 #### NVDA share price analysis:
   https://github.com/Andeez123/NVDA-share-analysis
 
-#### Financial data web scraping: 
-  https://github.com/Andeez123/Finance-Web-Scraper
-
 #### Sample Marketing Event Dashboard using PowerBI: 
   https://drive.google.com/file/d/1HBrapHT6aufrkvH1FonHkIDpTWjMCoTq/view?usp=sharing (PowerBI Dashboard link)
   https://drive.google.com/file/d/1ExsXdCmw1Kdvv5GGwnS1JoY1S0TbTzuz/view?usp=sharing (PowerBI Dashboard PDF File)
@@ -20,9 +17,4 @@ This is a collection of projects in my personal Github account
 #### FIT1043 Machine Learning Assignment:
   https://github.com/Andeez123/FIT1043-A2
 
-#### Basic exploratory data analysis on a sample movie dataset
-  https://github.com/Andeez123/Movie-dataset-EDA
-
-#### Scrapy mongodb project:
-  https://github.com/Andeez123/Scrapy-Mongodb
 
