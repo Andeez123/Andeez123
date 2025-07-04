@@ -15,11 +15,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Andeez123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Portfolio
+## 🔧 Portfolio
 This is a collection of projects in my personal Github account
 
 #### NVDA share price analysis:
   https://github.com/Andeez123/NVDA-share-analysis
+
+### ESP32 sensor monitoring dashboard:
+  https://github.com/Andeez123/ESP32-sensor-pipeline
 
 #### Sample Marketing Event Dashboard using PowerBI: 
   https://drive.google.com/file/d/1HBrapHT6aufrkvH1FonHkIDpTWjMCoTq/view?usp=sharing (PowerBI Dashboard link)
