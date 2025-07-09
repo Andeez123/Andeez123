@@ -18,9 +18,8 @@ This is a collection of projects in my personal Github account
   
 #### [FIT1043 Machine Learning Assignment](https://github.com/Andeez123/FIT1043-A2)
 
-#### Sample Marketing Event Dashboard using PowerBI: 
-  [PowerBI Dashboard link](https://drive.google.com/file/d/1HBrapHT6aufrkvH1FonHkIDpTWjMCoTq/view?usp=sharing)
-  [PowerBI Dashboard PDF File](https://drive.google.com/file/d/1ExsXdCmw1Kdvv5GGwnS1JoY1S0TbTzuz/view?usp=sharing)
+#### [Sample Marketing Campaign PowerBI Dashboard link](https://drive.google.com/file/d/1HBrapHT6aufrkvH1FonHkIDpTWjMCoTq/view?usp=sharing)
+#### [Sample Marketing Campaign PowerBI Dashboard PDF File](https://drive.google.com/file/d/1ExsXdCmw1Kdvv5GGwnS1JoY1S0TbTzuz/view?usp=sharing)
   
 
 
