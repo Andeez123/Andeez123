@@ -10,7 +10,7 @@ This is a collection of projects in my personal Github account
 
 #### [NVDA share price analysis](https://github.com/Andeez123/NVDA-share-analysis)
   
-#### [ESP32 sensor monitoring dashboard](https://github.com/Andeez123/ESP32-sensor-pipeline)
+#### [ESP32 sensor monitoring dashboard](https://github.com/Andeez123/ESP32-data-pipeline))
 
 #### [Sample Code from internship data cleaning, loading and transformation project](https://github.com/Andeez123/Internship-Codebase/)
   
