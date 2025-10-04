@@ -12,8 +12,6 @@ This is a collection of projects in my personal Github account
   
 #### [ESP32 sensor monitoring dashboard](https://github.com/Andeez123/ESP32-data-pipeline)
 
-#### [Data structures and algorithms](https://github.com/Andeez123/algos-and-stuff)
-
 #### [Sample Code from internship data cleaning, loading and transformation project](https://github.com/Andeez123/Internship-Codebase/)
   
 #### [FIT2099 Object Oriented Programming with Java Bootcamps](https://github.com/Andeez123/FIT2099-java-bootcamp)
